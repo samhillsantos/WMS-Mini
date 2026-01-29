@@ -3,7 +3,7 @@
 > Script em Python para simulação de estrutura de armazém e endereçamento lógico tridimensional (Rua-Coluna-Nível).
 
 ## 🎯 Objetivo
-Projeto desenvolvido para resolver um problema comum de **Logística**: a validação de endereços de estoque em um armazém (Digital Twin). O sistema gera automaticamente milhares de posições baseadas em regras de negócio configuráveis, permitindo simular a capacidade total do CD.
+Projeto desenvolvido para resolver um problema comum de **Logística**: a validação de endereços de estoque em um armazém. O sistema gera automaticamente milhares de posições baseadas em regras de negócio configuráveis, permitindo simular a capacidade total do CD.
 
 ## 🛠️ Tecnologias
 - **Python 3.12**
@@ -20,6 +20,7 @@ cd wms-mini
 
 # Execute a simulação
 python armazem.py
+
 # WMS-Mini
 # WMS-Mini
 # WMS-Mini
