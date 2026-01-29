@@ -21,3 +21,4 @@ cd wms-mini
 # Execute a simulação
 python armazem.py
 # WMS-Mini
+# WMS-Mini
