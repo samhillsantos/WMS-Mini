@@ -22,3 +22,4 @@ cd wms-mini
 python armazem.py
 # WMS-Mini
 # WMS-Mini
+# WMS-Mini
